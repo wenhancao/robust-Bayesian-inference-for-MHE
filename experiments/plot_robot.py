@@ -126,5 +126,5 @@ if __name__ == '__main__':
             contamination=contamination,
             results_file=f'../results/robot_estimation/error_{contamination}.pk',
             figsize=(16, 9),
-            save_path=f'C:/Users/15291/beta-mhe/figures/robot_estimation/robot_{contamination}.pdf'
+            save_path=f'../figures/robot_estimation/robot_{contamination}.pdf'
         )
